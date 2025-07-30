@@ -29,6 +29,7 @@ The project uses the Mental Health in Tech Survey dataset from Kaggle. This data
 - Other important factors included the availability of employer-provided mental health benefits and the willingness of employees to discuss mental health with coworkers.
 
 ![img.png](img.png)
+- Refer this for PowerBi Dashboard: https://app.powerbi.com/groups/me/reports/d6e8e0e0-4a0a-42f2-b0ab-3b9ff97dab82?ctid=61363c43-8420-43ca-8f82-801627e16cdf&pbi_source=linkShare
 
 ## 🚀 How to Run This Project
 1. **Clone the Repository**
