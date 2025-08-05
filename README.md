@@ -1,14 +1,14 @@
 
-# 🧠 Mental Health in Tech: Predictive Analysis 
+# Mental Health in Tech: Predictive Analysis 
 This project analyzes the "Mental Health in Tech Survey" dataset from Kaggle to predict whether an employee in the tech industry is likely to seek treatment for a mental health condition. The project involves data cleaning, exploratory data analysis (EDA), feature engineering, and building a predictive model using Python and Scikit-learn. The final insights are visualized in an interactive Power BI dashboard.
 
-## 🎯 Problem Statement
+## Problem Statement
 Mental health is a critical issue in the high-pressure tech industry. This project aims to identify the key factors that influence an individual's decision to seek mental health treatment. By building a predictive model, we can better understand the landscape of mental health in the workplace and highlight areas for potential improvement in company policies and support systems.
 
-## 📊 Dataset
+## Dataset
 The project uses the Mental Health in Tech Survey dataset from Kaggle. This dataset contains over 1,200 responses to a survey about mental health in the tech workplace.
 
-## ⚙️ Project Workflow
+## Project Workflow
 1. Data Cleaning & Preprocessing: Handled missing values, corrected inconsistent data (e.g., in 'Age' and 'Gender' columns), and encoded categorical features into a numerical format suitable for machine learning.
 
 2. Exploratory Data Analysis (EDA): Visualized the data using Matplotlib and Seaborn to uncover initial patterns and correlations between different survey responses.
@@ -21,7 +21,7 @@ The project uses the Mental Health in Tech Survey dataset from Kaggle. This data
 
    - Visualization: Imported the cleaned data into Power BI to create an interactive dashboard showcasing the key findings.
 
-## 📈 Key Results & Findings
+## Key Results & Findings
 - The predictive model achieved an accuracy of 71% on the test set.
 
 - The most significant predictor of seeking treatment was having a family history of mental illness.
@@ -31,7 +31,7 @@ The project uses the Mental Health in Tech Survey dataset from Kaggle. This data
 ![img.png](img.png)
 - Refer this for PowerBi Dashboard: https://app.powerbi.com/groups/me/reports/d6e8e0e0-4a0a-42f2-b0ab-3b9ff97dab82?ctid=61363c43-8420-43ca-8f82-801627e16cdf&pbi_source=linkShare
 
-## 🚀 How to Run This Project
+## How to Run This Project
 1. **Clone the Repository**
     ````bash
 
@@ -44,7 +44,7 @@ The project uses the Mental Health in Tech Survey dataset from Kaggle. This data
 
 3. **Run the Python scripts in order, or use the main Jupyter Notebook**
 
-## 🛠️ Tech Stack
+## Tech Stack
 Languages: Python
 
 ## Libraries: 
@@ -60,3 +60,4 @@ Passionate about Data Analytics, and Machine Learning.
 
 ## Licence
 MIT Licence - Feel free to use, modify, and share with attribution.
+
